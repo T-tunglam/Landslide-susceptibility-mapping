@@ -3,6 +3,13 @@ Folked repository of  "Landslide susceptibility mapping using Machine Learning -
 # Landslide-susceptibility-mapping-Vietnam
 Landslide susceptibility mapping using Machine Learning  with Optimized Algorythyms in Vietnam
 
+Additions:
+
+Frequency Ratio
+
+XGBoost model
+
+Baysian Optimization
 
 Landslide susceptibility Mapping using python-based environment
 
